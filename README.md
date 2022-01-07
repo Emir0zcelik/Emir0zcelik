@@ -2,4 +2,4 @@
 - 🔭 I’m currently working on C++
 - 🌱 I’m currently learning everything
 - 📫 How to reach me: themirozcelik@gmail.com
-
+- Comfort will rots you.

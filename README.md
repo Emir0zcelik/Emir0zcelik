@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Emir0zcelik
-- 🔭 I’m currently working on C++
+- 🔭 I’m currently working on Cyber Security & WEB Development
 - 🌱 I’m currently learning everything
 - 📫 How to reach me: themirozcelik@gmail.com
-- Comfort will rots you.
+- 🥔

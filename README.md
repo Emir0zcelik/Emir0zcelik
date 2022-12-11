@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Emir0zcelik
-- 🌱 I’m currently learning game development & data science
+- 🌱 I’m currently learning game development
 - 📫 How to reach me: themirozcelik@gmail.com
 - 🥔

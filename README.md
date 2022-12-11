@@ -13,9 +13,4 @@
  </p>
 
 <p>  
- 
- &nbsp; &nbsp; &nbsp; &nbsp;
- Visitor Count:<br><br>
- &nbsp; &nbsp; &nbsp; &nbsp;
- <img align="left" src="https://profile-counter.glitch.me/Emir0zcelik/count.svg" alt="Emir0zcelik" width="%50"/>
-</p>
+

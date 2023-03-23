@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **Game Development**
 - :video_game: My itch.io page: https://joyjacksoon.itch.io
 - 📫 How to reach me: themirozcelik@gmail.com
+- emir-ozcelik.com
 
  <p>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Emir0zcelik&show_icons=true&theme=github_dark" alt="Emir0zcelik" width="50%"/>

@@ -29,8 +29,6 @@
     
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Emir0zcelik&show_icons=true&theme=gruvbox&layout=compact" alt="Emir0zcelik" /></p>
-
 <details>
     <summary>:bulb: Github Stats </summary>
     <img src= "https://github-readme-stats.vercel.app/api?username=Emir0zcelik&theme=synthwave">

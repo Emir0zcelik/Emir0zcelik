@@ -25,9 +25,7 @@
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/> 
     </a> 
     
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity"/> 
-    </a>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity"/></a>
     
 </p>
 

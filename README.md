@@ -7,16 +7,15 @@
 - 📫 How to reach me: themirozcelik@gmail.com
 - 🕹️ Personal Website: www.emir-ozcelik.com
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?Emir0zcelik=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?Emir0zcelik=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?Emir0zcelik=anuraghazra&show_icons=true" />
-</picture>
+<details>
+    <summary>:bulb: Github Stats </summary>
+    <img src= "https://github-readme-stats.vercel.app/api?username=Emir0zcelik&theme=radical">
+</details>
+
+
+<details>
+    <summary>:bulb: Most Used Languages </summary>
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Emir0zcelik&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+</details>
 
 

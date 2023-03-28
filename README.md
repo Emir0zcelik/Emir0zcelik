@@ -7,11 +7,16 @@
 - 📫 How to reach me: themirozcelik@gmail.com
 - 🕹️ Personal Website: www.emir-ozcelik.com
 
- <p>
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Emir0zcelik=anuraghazra&show_icons=true) width="50%"/>
-    &nbsp; &nbsp; &nbsp; &nbsp;
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emir0zcelik&layout=compact&theme=github_dark" alt="Emir0zcelik"/>
- </p>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?Emir0zcelik=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?Emir0zcelik=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?Emir0zcelik=anuraghazra&show_icons=true" />
+</picture>
 
-<p>  
 

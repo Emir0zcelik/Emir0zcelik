@@ -26,9 +26,14 @@
     </a> 
     
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity"/> </a>
+    
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Emir0zcelik&show_icons=true&theme=gruvbox&layout=compact" alt="Emir0zcelik" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Emir0zcelik&show_icons=true&theme=gruvbox" alt="Emir0zcelik" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Emir0zcelik&theme=gruvbox" alt="Emir0zcelik" /></p>
 
 <details>
     <summary>:bulb: Github Stats </summary>

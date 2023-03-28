@@ -15,7 +15,7 @@
 
 <details>
     <summary>:bulb: Most Used Languages </summary>
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Emir0zcelik&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats">
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Emir0zcelik&theme=synthwave&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats">
 </details>
 
 

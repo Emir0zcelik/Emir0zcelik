@@ -8,7 +8,7 @@
 - 🕹️ Personal Website: www.emir-ozcelik.com
 
  <p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Emir0zcelik&show_icons=true&theme=github_synthwave" alt="Emir0zcelik" width="50%"/>
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Emir0zcelik=anuraghazra&show_icons=true) width="50%"/>
     &nbsp; &nbsp; &nbsp; &nbsp;
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emir0zcelik&layout=compact&theme=github_dark" alt="Emir0zcelik"/>
  </p>

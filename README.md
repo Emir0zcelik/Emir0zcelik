@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emir</h1>
 <h3 align="center">A Game Developer from Ankara/Turkey</h3>
 
-- 🔭 I’m currently working on **Unity, Defold, C#, Lua, C++**
+- 🔭 I’m currently working on **Unity, C#, C++**
 - 🌱 I’m currently learning **Game Development & Computer Graphics**
 - :video_game: My itch.io page: https://joyjacksoon.itch.io
 - 📫 How to reach me: themirozcelik@gmail.com
